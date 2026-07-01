@@ -1,0 +1,6 @@
+{
+  "name": "Video Editor and Compressor Tools",
+  "description": "A collection of web-based client-side tools for video compression, splitting, audio replacement, speed changing, thumbnail extraction, and converting video to GIF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
